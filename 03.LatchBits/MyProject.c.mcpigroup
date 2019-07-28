@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\02.PORTBits\MyProject.mcppi
+Project1=MyProject.mcppi
+[ActiveProject]
+Index=1
