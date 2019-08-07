@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"Z:\home\angicia\Desktop\MikroC\06.LED_Dance\base.mcppi" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"Z:\home\angicia\Desktop\MikroC\06.LED_Dance\" -SP"C:\users\angicia\Desktop\MikroC\06.LED_Dance\" -IP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "base.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	base.c
+diagnostics: 17	123	Compiled Successfully	base.c
+diagnostics: 0	127	All files Compiled in 386 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 51 (1%)  Free ROM (program words): 8141 (99%)	Used ROM (program words): 51 (1%)  Free ROM (program words): 8141 (99%)
+diagnostics: 0	125	Project Linked Successfully	base.mcppi
+diagnostics: 0	128	Linked in 39 ms	 
+diagnostics: 0	129	Project 'base.mcppi' completed: 484 ms	 
+diagnostics: 0	103	Finished successfully: 06 Aug 2019, 20:44:17	base.mcppi
