@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"Z:\home\angicia\Desktop\MikroC\07.LED_Chase\base.mcppi" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"Z:\home\angicia\Desktop\MikroC\07.LED_Chase\" -SP"C:\users\angicia\Desktop\MikroC\07.LED_Chase\" -IP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "base.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	base.c
+diagnostics: 14	123	Compiled Successfully	base.c
+diagnostics: 0	127	All files Compiled in 447 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 348 (99%)	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 348 (99%)
+hint: 0	1144	Used ROM (program words): 52 (1%)  Free ROM (program words): 8140 (99%)	Used ROM (program words): 52 (1%)  Free ROM (program words): 8140 (99%)
+diagnostics: 0	125	Project Linked Successfully	base.mcppi
+diagnostics: 0	128	Linked in 40 ms	 
+diagnostics: 0	129	Project 'base.mcppi' completed: 541 ms	 
+diagnostics: 0	103	Finished successfully: 06 Aug 2019, 20:56:28	base.mcppi
