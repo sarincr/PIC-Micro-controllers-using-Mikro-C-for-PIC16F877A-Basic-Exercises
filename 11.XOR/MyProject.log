@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"Z:\home\angicia\Desktop\MikroC\09.AND\MyProject.mcppi" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"Z:\home\angicia\Desktop\MikroC\09.AND\" -SP"C:\users\angicia\Desktop\MikroC\09.AND\" -IP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+diagnostics: 34	123	Compiled Successfully	MyProject.c
+diagnostics: 0	127	All files Compiled in 418 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 19 (1%)  Free ROM (program words): 8173 (99%)	Used ROM (program words): 19 (1%)  Free ROM (program words): 8173 (99%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 42 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 516 ms	 
+diagnostics: 0	103	Finished successfully: 15 Aug 2019, 09:42:06	MyProject.mcppi
