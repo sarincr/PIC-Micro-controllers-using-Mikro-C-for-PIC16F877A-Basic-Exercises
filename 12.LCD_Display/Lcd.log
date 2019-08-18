@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -RA -DL -O11111114 -fo10 -N"C:\Users\ANGICIA\Desktop\Mikroc\12.LCD_Display\Lcd.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\ANGICIA\Desktop\Mikroc\12.LCD_Display\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Lcd.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	P16F877A.c
+diagnostics: 660	123	Compiled Successfully	P16F877A.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	Lcd.c
+diagnostics: 21	123	Compiled Successfully	Lcd.c
+diagnostics: 0	127	All files Compiled in 171 ms	 
+hint: 0	1144	Used RAM (bytes): 20 (6%)  Free RAM (bytes): 332 (94%)	Used RAM (bytes): 20 (6%)  Free RAM (bytes): 332 (94%)
+hint: 0	1144	Used ROM (program words): 296 (4%)  Free ROM (program words): 7896 (96%)	Used ROM (program words): 296 (4%)  Free ROM (program words): 7896 (96%)
+diagnostics: 0	125	Project Linked Successfully	Lcd.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'Lcd.mcppi' completed: 578 ms	 
+diagnostics: 0	103	Finished successfully: 18 Aug 2019, 07:57:33	Lcd.mcppi
